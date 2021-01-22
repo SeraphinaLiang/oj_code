@@ -1,0 +1,11 @@
+
+$line1$
+&a[i]
+$line2$
+int i=0;i<10;i++
+$line3$
+9
+$line4$
+a[j]>a[ j+1]
+$line5$
+t=a[j];a[j]=a[j+1];a[j+1]=t;

@@ -1,0 +1,5 @@
+
+$line1$
+int divi(int m,int n)
+$line2$
+divi(a,b)

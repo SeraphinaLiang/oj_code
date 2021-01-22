@@ -1,0 +1,6 @@
+$block1$
+char b[100];
+gets(s);gets(a);gets(b);
+    strcat(s,a);
+    strcat(s,b);
+$end1$

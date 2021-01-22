@@ -1,0 +1,7 @@
+
+$line1$
+fp=fopen("case1.in","r")
+$line2$
+(ch=fgetc(fp))!=EOF
+$line3$
+putchar(ch)

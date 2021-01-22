@@ -1,0 +1,8 @@
+$block1$
+if(ch>='0'&&ch<='9')
+            printf("%c",ch);
+$end1$
+$line1$
+fp=fopen("case1.in","r")
+$line2$
+(ch=fgetc(fp))!=EOF

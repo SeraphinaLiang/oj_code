@@ -1,0 +1,4 @@
+$line1$
+int *p1,int *p2
+$line2$
+pa,pb

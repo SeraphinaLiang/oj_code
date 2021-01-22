@@ -1,0 +1,4 @@
+$line1$
+gets(s);
+$line2$
+%s
